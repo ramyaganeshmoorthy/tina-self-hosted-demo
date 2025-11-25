@@ -5,7 +5,7 @@ logo:
   alt: NextJS
 links:
   - header: Documents
-    description: Find in-depth information about Next.js features and API.
+    description: Find in-depth details about Next.js features and API.
     url: 'https://nextjs.org/docs?utm_source=create-next-app'
   - header: Learn
     description: Learn about Next.js in an interactive course with quizzes!
